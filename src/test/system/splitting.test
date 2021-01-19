@@ -1,0 +1,7 @@
+ARGS
+--data data/split.txt --whitespace
+INPUT
+splitwords
+OUTPUT
+split words
+END

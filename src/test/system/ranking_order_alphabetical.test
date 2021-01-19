@@ -1,0 +1,10 @@
+ARGS
+--data data/restaurants.txt --prefix
+INPUT
+t
+OUTPUT
+thai
+tealuxe
+tea
+tropical
+END

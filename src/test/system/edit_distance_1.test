@@ -1,7 +1,0 @@
-ARGS
---data data/norton.txt --prefix --led 1
-INPUT
-nortoa
-OUTPUT
-norton
-END
